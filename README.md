@@ -1,5 +1,7 @@
 ### https://takagotch.github.io/page324
 
+#### 動的サイトなので、GithubPage(静的サイト,html,css,jsなどのデプロイ不要プログラム)で表示不可
+
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
 [![NPM downloads][npm-coreui-download]][npm-coreui]  
